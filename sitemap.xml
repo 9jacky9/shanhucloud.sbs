@@ -2,10 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://shanhucloud.sbs/index.html</loc>
+    <lastmod>2026-11-17</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://shanhucloud.sbs/blog.html</loc>
+    <lastmod>2026-11-16</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -22,26 +24,32 @@
   </url>
   <url>
     <loc>https://shanhucloud.sbs/next-gen-protocols.html</loc>
+    <lastmod>2026-11-16</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://shanhucloud.sbs/shanhucloud-tech.html</loc>
+    <lastmod>2026-11-16</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://shanhucloud.sbs/cloud-computing-network.html</loc>
+    <lastmod>2026-11-16</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://shanhucloud.sbs/ipv6-deployment.html</loc>
+    <lastmod>2026-11-16</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://shanhucloud.sbs/encryption-standards.html</loc>
+    <lastmod>2026-11-16</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://shanhucloud.sbs/latency-analysis.html</loc>
+    <lastmod>2026-11-16</lastmod>
     <priority>0.8</priority>
   </url>
 </urlset>
